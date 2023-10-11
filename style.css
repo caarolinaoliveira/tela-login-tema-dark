@@ -72,6 +72,7 @@ textarea:focus, input:focus, select:focus {
 
 input:hover{
     cursor: pointer;
+    background-color: #957bbcae;
 }
 
 .container__user{
